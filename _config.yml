@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Manju Lasantha Fernando"
 title_separator          : "-"
 name                     : &name "Lasantha Fernando"
-description              : &description "personal description"
+description              : &description "Computer science graduate/researcher with interests in distributed systems, parallel programming & data science"
 url                      : https://lasanthafdo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lasanthafdo/lasanthafdo.github.io"
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Lasantha Fernando"
-  avatar           : "profile.png"
+  avatar           : "square_profile_pic.jpg"
   bio              : "Researcher with interests in Distributed Systems, Parallel Programming and Data Science"
   location         : "Colombo"
-  employer         :
+  employer         : "LIRNEasia"
   googlescholar    : "https://scholar.google.com/citations?user=rJcyqu0AAAAJ&hl=en"
   email            :
   uri              :
