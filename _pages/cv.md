@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc.(Hons) in Computer Science & Engineering, University of Moratuwa, 2013
+* M.Sc. in Computer Science, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-Present: Senior Researcher
+* 2016-2018: Researcher
+  * LIRNEasia
+  * Duties included: Developing spatio-temporal forecasting model for dengue propagation, Maintaining Spark cluster, 
+  
+* 2015-2016: Senior Software Engineer  
+* 2013-2015: Software Engineer
+  * WSO2 Inc
+  * Duties included: Design and development of Complex Event Processor for WSO2 middleware stack
   
 Skills
 ======
@@ -54,6 +53,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
