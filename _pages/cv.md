@@ -19,21 +19,28 @@ Work experience
 * 2018-Present: Senior Researcher
 * 2016-2018: Researcher
   * LIRNEasia
-  * Duties included: Developing spatio-temporal forecasting model for dengue propagation, Maintaining Spark cluster, 
+  * Duties included: Developing spatio-temporal forecasting model for dengue propagation, Maintaining Spark/Hadoop cluster
   
 * 2015-2016: Senior Software Engineer  
 * 2013-2015: Software Engineer
   * WSO2 Inc
   * Duties included: Design and development of Complex Event Processor for WSO2 middleware stack
   
-Skills
+Programming Languages and Technologies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Langugages
+  * Java, Scala, C, C++, Eiffel, Scheme
+  * R, SQL
+  * PHP, Javascript, Groovy
+* Familiarity of codebase (for platform integratiion tasks)
+  * Apache Spark, Storm, Hadoop, Hive, Cassandra
+* Experience in using
+  * Apache Thrift, Zookeeper, Pig
+  * Hazelcast
+* Other technologies
+  * SOAP/REST web services
+  * OSGi, Eclipse plugin development
+  * JSP, Struts, Hibernate, Grails, CakePHP
 
 Publications
 ======
