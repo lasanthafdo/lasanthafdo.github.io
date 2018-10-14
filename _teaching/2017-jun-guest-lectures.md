@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer - CS4622"
+title: "Guest Lecturer - Undergraduate Courses"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2017-jun-guest-lectures
@@ -8,7 +8,8 @@ date: 2017-06-01
 location: "Moratuwa, Sri Lanka"
 ---
 
-Conducted guest lecture for final year undergradute course on Machine Learning.
+Conducted guest lectures for the final year undergradute course on Machine Learning.
 
 CS4622 - Machine Learning
 ======
+Covered the theory and concepts related to support vector machines. 
