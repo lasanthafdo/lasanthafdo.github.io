@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-jun-guest-lectures
 venue: "University of Moratuwa, Department of Computer Science \& Engineering"
-date: 2017-06-01 - 2018-06-01
+date: 2017-06-01
 location: "Moratuwa, Sri Lanka"
 ---
 

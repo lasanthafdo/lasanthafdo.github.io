@@ -4,7 +4,7 @@ collection: teaching
 type: "Project Supervision"
 permalink: /teaching/2016-sep-supervision
 venue: "University of Moratuwa, Department of Computer Science \& Engineering"
-date: 2016-09-01 - 2018-02-28
+date: 2016-09-01
 location: "Moratuwa, Sri Lanka"
 ---
 
