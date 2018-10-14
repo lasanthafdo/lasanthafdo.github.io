@@ -1,9 +1,9 @@
 ---
-title: "Supervisor - Undergraduate Projects"
+title: "Supervisor - Final Year Undergraduate Projects"
 collection: teaching
 type: "Project Supervision"
 permalink: /teaching/2016-sep-supervision
-venue: "University of Moratuwa, Department of Computer Science \& Engineering"
+venue: "University of Moratuwa, Department of Computer Science & Engineering"
 date: 2016-09-01
 location: "Moratuwa, Sri Lanka"
 ---
