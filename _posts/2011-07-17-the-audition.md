@@ -9,7 +9,11 @@ tags:
 ---
 
 
-Copyright [1]
+<p float="center">
+  <img src="images/terra-kate-6.jpg" title="Imaginary image of a seductress?" alt="misty_pic" />
+  Copyright [1]
+</p>
+
 
 
 
@@ -42,7 +46,6 @@ Every man there wanted her just as much as me,
 But I kept my emotions in a freeze.
 
 
-
 Yet her intriguing glance from time to time,
 
 Kindled within me a dormant fire.
@@ -50,7 +53,6 @@ Kindled within me a dormant fire.
 As instincts ingrained in my genetics kicked in,
 
 My body began to ache with desire.
-
 
 
 She turned my way, with a sly half smile,
@@ -82,7 +84,6 @@ But how much for her wisdom and intellect,
 Or integrity, evidently on par with nil.
 
 
-Image References
+#### Image References
 
-
-[1] http://whodesignedit.net/photography/dreamlike-conceptual-photography-terra-kate
+[1] [http://whodesignedit.net/photography/dreamlike-conceptual-photography-terra-kate](http://whodesignedit.net/photography/dreamlike-conceptual-photography-terra-kate)
