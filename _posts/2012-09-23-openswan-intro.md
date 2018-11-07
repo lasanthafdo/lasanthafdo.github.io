@@ -37,7 +37,7 @@ After this you have to configure some initial parameters so that ipsec  works pr
 
 ### Initial Setup
 
-Before the initial setup, you might have to start Openswan by '**service ipsec start**' and run '**ipsec verify**'. Oh, and please drop into a root shell if you don't want to type 'sudo' or 'su -c' or whatever in front of every command. The output of ipsec verify might be similar to this.
+Before the initial setup, you might have to start Openswan by '**service ipsec start**' and run '**ipsec verify**'. Oh, and please drop into a root shell if you don't want to type '**sudo**' or '**su -c**' or whatever in front of every command. The output of ipsec verify might be similar to this.
 
 ```
 Checking your system to see if IPsec got installed and started correctly:
@@ -89,7 +89,7 @@ net.ipv4.icmp_ignore_bogus_error_responses = 1
 net.ipv4.conf.all.log_martians = 0
 ```
 
-Now, use the 'sysctl -p' command to apply these settings. After that run 'ipsec verify' again. If you are still seeing the 'FAILED' checks even after that, use these commands to manually disable ICMP redirects.
+Now, use the '**sysctl -p**' command to apply these settings. After that run '**ipsec verify**' again. If you are still seeing the 'FAILED' checks even after that, use these commands to manually disable ICMP redirects.
 
 
 `for f in /proc/sys/net/ipv4/conf/*/send_redirects; do echo 0 &gt; $f; done`
