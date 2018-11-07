@@ -17,7 +17,7 @@ If you consider the paradigm of story telling, be it books, movies, comics or wh
 
 Now the discussion becomes essentially political. If you consider Hollywood or Bollywood movies, they mass produce films that are constrained to a standard and familiar set of characteristics. These mass productions do have good technical aspects, a good cast and good story and all. But they essentially lack something so essential in an art form. A thought provoking discussion about some interesting topic. That does not mean that a film or series has to be serious or devoid of action sequences. Charlie Chaplin did comedies. But he explored topics that were very prevalent of those times. Say I think Gladiator was a wonderful action film. But it was not presented as a muddle of half or fully naked women and blood and gore to fill in the gaps. It explores the fate and destiny of a single person, of corrupt politicians, the hunger for power and many other themes. It explores not in a direct unbelievable fashion, but a subtle, believable fashion and that is what makes it appealing. 
 
-![all_time_great](images/480px-Charlie_Chaplin.jpg "Charlie Chaplin")
+![all_time_great](https://lasanthafdo.github.io/images/480px-Charlie_Chaplin.jpg "Charlie Chaplin")
 
 [1] Charlie Chaplin - An all time great artist
 
@@ -35,7 +35,7 @@ Now of anime and manga which I like very much, they explore these topics much mo
     
 If you consider a series like Cowboy Bebop, the genre is space-western type and not in reality. But it explores the characters, and does not try to live off simply by introducing some cool looking gadgets and stuff. The characters give depth and life to the show. 
 
-![cowboy_bebop](images/CowboyBebopDVDBoxSet.jpg "Cowboy Bebop")
+![cowboy_bebop](https://lasanthafdo.github.io/images/CowboyBebopDVDBoxSet.jpg "Cowboy Bebop")
 
 [2] Cowboy Bebop - One of the first anime to break through internationally.... As I understand ... :-)
 
@@ -43,7 +43,7 @@ The original first series of darker than black, besides being good with great ac
 
 If you take the TV series and manga Monster, it explores themes of racism, prejudice, psychological experimentation which are all valid themes in today's society. What it makes it more attractive is the characters are normal people, not superheroes or specially trained superstars, they make mistakes and their decisions can sometimes be questionable. The moral dilemma's are presented to the audience and they make the audience ponder as same as the character in the story. Most importantly, the story is open-ended, which is a very attractive attribute I find in many anime and manga as opposed to the other similar forms. The film or manga does not decide it for you, but lets you decide. The artist does not try to impose his or her opinion into you, but only raises the question, and those also valid questions. Nothing is so irritating when watching a film if you feel that you are being force-fed someone else's propaganda for their own purposes. 
 
-![monster_anime](images/Monster.JPG "Monster")
+![monster_anime](https://lasanthafdo.github.io/images/Monster.JPG "Monster")
 
 [3] Monster - A great piece of work
 
