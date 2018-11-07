@@ -8,14 +8,10 @@ tags:
   - brazil lose to netherlands
 ---
 
-![dutch celebrate](images/svMATCH_DUTCH-420x0.jpg "Dutch celebrate")
-Wesley Sneijder celebrates the
-own goal by Felipe Melo of
-Brazil with teammates Dirk
-Kuyt and Arjen Robben
-. Photo: Getty Images
-
-
+<p float="left">
+  <img src="images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="420" /> 
+  Wesley Sneijder celebrates the own goal by Felipe Melo of Brazil with teammates Dirk Kuyt and Arjen Robben. Photo: Getty Images
+</p>
 
 Indeed it broke the hearts of many Brazilian fans to see their team exit the soccer world cup finals at the quarter final stages. Brazil were among the tournament favourites from the very beginning and even thought Netherlands was a tough team to compete with, no one could say today's match was an upset result.
 
