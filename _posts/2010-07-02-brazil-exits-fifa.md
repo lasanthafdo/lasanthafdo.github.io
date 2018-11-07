@@ -9,7 +9,7 @@ tags:
 ---
 
 <p float="left">
-  <img src="images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="420" /> 
+  <img src="https://lasanthafdo.github.io/images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="420" /> 
   Wesley Sneijder celebrates the own goal by Felipe Melo of Brazil with teammates Dirk Kuyt and Arjen Robben. Photo: Getty Images
 </p>
 
