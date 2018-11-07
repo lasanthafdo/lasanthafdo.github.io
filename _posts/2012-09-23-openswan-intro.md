@@ -125,7 +125,7 @@ Netkey is still evolving and so not an old and proven technology like KLIPS. It 
 
 Nat traversal is needed because most of the time we are probably sitting behind some Nat. So it is always advisable to enable NAT-Traversal or NAT-T for Openswan. This needs to be enabled at both ends. 
 
-There are loads of other stuff related to configuring Openswan that needs to be mentioned. I will mention the detailed configuration stuff in another post. Anyway, the sources mentioned here are pretty good and complete, so you can use them to go ahead and configure stuff on your own if you'd like to hack a little bit and get things working.
+There are loads of other stuff related to configuring Openswan that needs to be mentioned. I will mention the detailed configuration stuff in [another post](http://randomthoughtsofbloggerrandom.blogspot.com/2012/10/connecting-to-checkpoint-gateway-with.html). Anyway, the sources mentioned here are pretty good and complete, so you can use them to go ahead and configure stuff on your own if you'd like to hack a little bit and get things working.
 
 ### Sources
 
