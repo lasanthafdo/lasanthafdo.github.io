@@ -8,6 +8,7 @@ tags:
   - brazil lose to netherlands
 ---
 
+![dutch celebrate](images/svMATCH_DUTCH-420x0.jpg "Dutch celebrate")
 Wesley Sneijder celebrates the
 own goal by Felipe Melo of
 Brazil with teammates Dirk
