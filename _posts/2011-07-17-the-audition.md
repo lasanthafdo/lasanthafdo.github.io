@@ -10,7 +10,7 @@ tags:
 
 
 <p float="center">
-  <img src="images/terra-kate-6.jpg" title="Imaginary image of a seductress?" alt="misty_pic" />
+  <img src="https://lasanthafdo.github.io/images/terra-kate-6.jpg" title="Imaginary image of a seductress?" alt="misty_pic" />
   Copyright [1]
 </p>
 
