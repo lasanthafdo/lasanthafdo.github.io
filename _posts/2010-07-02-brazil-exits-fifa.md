@@ -11,7 +11,7 @@ tags:
 Indeed it broke the hearts of many Brazilian fans to see their team exit the soccer world cup finals at the quarter final stages. Brazil were among the tournament favourites from the very beginning and even thought Netherlands was a tough team to compete with, no one could say today's match was an upset result.
 
 <p align="center">
-  <img src="https://lasanthafdo.github.io/images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="210" />
+  <img src="https://lasanthafdo.github.io/images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="420" />
 </p>
 <p align="center">Wesley Sneijder celebrates the own goal by Felipe Melo of Brazil with teammates Dirk Kuyt and Arjen Robben. Photo: Getty Images</p>
 
