@@ -9,12 +9,9 @@ tags:
 ---
 
 
-<p float="center">
-  <img src="https://lasanthafdo.github.io/images/terra-kate-6.jpg" title="Imaginary image of a seductress?" alt="misty_pic" />
-  Copyright [1]
-</p>
-
-
+|![Misty pic of woman](https://lasanthafdo.github.io/images/terra-kate-6.jpg "Imaginary image of a seductress?")
+|:--:|
+|Copyright[1]|
 
 
 I met a flower in full bloom today,
