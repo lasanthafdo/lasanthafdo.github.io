@@ -9,11 +9,6 @@ tags:
 ---
 
 
-|![Misty pic of woman](https://lasanthafdo.github.io/images/terra-kate-6.jpg "Imaginary image of a seductress?")
-|:--:|
-|Copyright[1]|
-
-
 I met a flower in full bloom today,
 
 Sweet and sexy as hell,
@@ -32,6 +27,10 @@ I heard her voice when she called one of her lovers,
 
 Oh! Such an exquisite address.
 
+
+|![Misty pic of woman](https://lasanthafdo.github.io/images/terra-kate-6.jpg "Imaginary image of a seductress?")
+|:--:|
+|Copyright[1]|
 
 
 Her painted nails shone an emerald green.
