@@ -9,8 +9,6 @@ tags:
   - vpn tunnel
 ---
 
-### Overview
-
 Recently I had the situation where I had to connect to a VPN via a Checkpoint Security Gateway (R70.x) via Linux with IPSec stack. While there were a lot of posts in the net regarding Openswan to which I am very grateful, I still had to tweak configurations from here and there until I could get it working with collaboration from the admin at the gateway side as well. There is also this great book called 'Building and Integrating Virtual Private Networks with Openswan' by Ken Bantoft and Paul Wouters which is like the recommended text for Openswan stuff. For Openswan, this is the background you need for get it working.
 
 ### Installing Openswan
