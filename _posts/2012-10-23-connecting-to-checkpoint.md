@@ -9,8 +9,6 @@ tags:
   - vpn tunnel
 ---
 
-### Overview
-
 In a [previous post](http://randomthoughtsofbloggerrandom.blogspot.com/2012/09/vpn-tunnel-to-checkpoint-gateway-with.html) I explained the basic pre-requisites that you have to setup before you try to establish a VPN tunnel with Openswan. Also, I tried to explain some related terminology to the best of my understanding (That 'to the best of my understanding' part is important ... :-) ). In this post, the detailed configuration that worked for me is given.
 
 ### Check-list
