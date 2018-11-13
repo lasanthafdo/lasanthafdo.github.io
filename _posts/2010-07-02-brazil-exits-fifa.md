@@ -8,12 +8,12 @@ tags:
   - brazil lose to netherlands
 ---
 
+Indeed it broke the hearts of many Brazilian fans to see their team exit the soccer world cup finals at the quarter final stages. Brazil were among the tournament favourites from the very beginning and even thought Netherlands was a tough team to compete with, no one could say today's match was an upset result.
+
 <p float="left">
-  <img src="https://lasanthafdo.github.io/images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="420" /> 
+  <img src="https://lasanthafdo.github.io/images/svMATCH_DUTCH-420x0.jpg" alt="Dutch celebrate" width="210" /> 
   Wesley Sneijder celebrates the own goal by Felipe Melo of Brazil with teammates Dirk Kuyt and Arjen Robben. Photo: Getty Images
 </p>
-
-Indeed it broke the hearts of many Brazilian fans to see their team exit the soccer world cup finals at the quarter final stages. Brazil were among the tournament favourites from the very beginning and even thought Netherlands was a tough team to compete with, no one could say today's match was an upset result.
 
 South American teams garner a lot of support for themselves, even from neutral fans, not only because of their success at international tournaments, but because of their playing style. They play the game beautifully!. From start to finish, teams like Brazil and Argentina play an open game, and their dribbling skills and control of the ball would keep any fan glued to their play. It is indeed unfortunate to see one such team that has the flair and ability to play it 'joga bonito' style has to exit the tournament at this stage. Yet indeed, I guess it is the nature of football that upsets like these happen.
 
