@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Lasantha Fernando"
   avatar           : "square_profile_pic.jpg"
-  bio              : "Researcher with interests in distributed systems, large-scale data processing, stream processing and data science"
+  bio              : "Researcher with interests in distributed systems, data-intensive systems, stream processing and data science"
   location         : "Colombo"
   employer         : "LIRNEasia"
   googlescholar    : "https://scholar.google.com/citations?user=rJcyqu0AAAAJ&hl=en"
