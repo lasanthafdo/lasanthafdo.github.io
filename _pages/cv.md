@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc.(Hons) in Computer Science and Engineering, University of Moratuwa, 2013
-* M.Sc. in Computer Science, University of Moratuwa, 2018 (expected)
+* M.Sc. in Computer Science and Engineering, University of Moratuwa, 2019
 
 Work experience
 ======
